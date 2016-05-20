@@ -1,0 +1,20 @@
+name: Roman Club
+description:  See the stars again
+
+sass:
+  sass_dir: assets/css/_sass
+  style: :compressed
+
+markdown: redcarpet
+redcarpet:
+  extensions: ["no_intra_emphasis", "tables", "fenced_code_blocks", "autolink", "strikethrough", "superscript"]
+
+url: https://roman-club.github.io
+permalink: /:year/:month/:title/
+owner:
+    name: etaphs + prez
+
+ga_id: #
+ga_username: #
+
+timezone: America/Denver
